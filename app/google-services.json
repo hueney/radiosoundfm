@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333321335081",
+    "firebase_url": "https://brradiosoundfm.firebaseio.com",
+    "project_id": "brradiosoundfm",
+    "storage_bucket": "brradiosoundfm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333321335081:android:ee728378202c85022f8738",
+        "android_client_info": {
+          "package_name": "br.com.streaminghost.radiosoundfm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333321335081-spar4ej0levfo717cc9vvagrkecgnsd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjVUWmlzkqNWD6MwHxJ5-uGfUAVDTKlLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333321335081-spar4ej0levfo717cc9vvagrkecgnsd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
